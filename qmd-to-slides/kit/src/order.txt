@@ -1,0 +1,7 @@
+## Ouverture.
+cover
+## Partie 1 : description de la section (deck.json « sections »).
+partie-1
+continuite
+## Clôture.
+fin

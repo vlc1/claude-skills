@@ -1,0 +1,47 @@
+{
+  "subst": {
+    "logo_c": "/_blob/REPLACE_WITH_COLOUR_LOGO_ASSET",
+    "logo_w": "/_blob/REPLACE_WITH_WHITE_LOGO_ASSET",
+    "sec": "background:#ffffff;color:#0f273b;font-family:'TT Norms Pro', Tahoma, sans-serif;padding:128px 128px 136px;display:flex;flex-direction:column;gap:32px",
+    "div": "background:#2f2a85;color:#ffffff;font-family:'TT Norms Pro', Tahoma, sans-serif;padding:128px;display:flex;flex-direction:column;gap:24px",
+    "eyeb": "<p style=\"font-size:24px;letter-spacing:4px;text-transform:uppercase;color:#2f2a85\">",
+    "h2": "<h2 style=\"font-family:'TT Norms Pro Bold', Tahoma, sans-serif;font-weight:400;font-size:64px;line-height:1.1;color:#2f2a85;width:1600px\">",
+    "h3": "<h3 style=\"font-family:'TT Norms Pro Bold', Tahoma, sans-serif;font-weight:400;font-size:40px;line-height:1.2;color:#2f2a85\">",
+    "p": "<p style=\"font-size:32px;line-height:1.4\">",
+    "small": "<p style=\"font-size:28px;line-height:1.4\">",
+    "lbl": "<p style=\"font-size:24px;letter-spacing:3px;text-transform:uppercase;color:#2f2a85\">",
+    "B": "'TT Norms Pro Bold', Tahoma, sans-serif",
+    "row": "display:flex;flex-direction:row;gap:64px",
+    "eqc": "<div style=\"display:flex;flex-direction:row;justify-content:center\">",
+    "divider-art": "<svg aria-label=\"Aplat bleu ciel et arcs issus du symbole\" viewBox=\"0 0 704 1080\" width=\"704\" height=\"1080\" style=\"position:absolute;left:1216px;top:0px;width:704px;height:1080px\"><rect x=\"0\" y=\"720\" width=\"704\" height=\"360\" fill=\"#1eafd0\"/><circle cx=\"704\" cy=\"720\" r=\"280\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"112\"/><circle cx=\"176\" cy=\"0\" r=\"140\" fill=\"none\" stroke=\"#8fd6e8\" stroke-width=\"72\"/></svg>"
+  },
+  "deck": {
+    "v": 4,
+    "createdOnFiles": {
+      "v": 1,
+      "at": "YYYY-MM-DDT00:00:00Z"
+    },
+    "lists": "css",
+    "title": "Chapitre — Titre du chapitre",
+    "cover": "cover",
+    "faces": {
+      "tt-norms-pro": {
+        "family": "TT Norms Pro",
+        "src": "project/ds/uge/fonts/TTNormsPro-Regular.otf"
+      },
+      "tt-norms-pro-bold": {
+        "family": "TT Norms Pro Bold",
+        "src": "project/ds/uge/fonts/TTNormsPro-Bold.otf"
+      }
+    },
+    "designSystems": [
+      {
+        "title": "UGE",
+        "namespace": "uge",
+        "artifact": "https://claude.ai/artifact/CEgGQsZVhRekV6dcfMoTyd",
+        "version": "1793390657-2afb",
+        "copiedAt": "2026-10-30T10:00:00Z"
+      }
+    ]
+  }
+}
